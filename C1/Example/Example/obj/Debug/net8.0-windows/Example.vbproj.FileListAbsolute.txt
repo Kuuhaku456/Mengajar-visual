@@ -1,0 +1,16 @@
+C:\praktikum_visual\C1\Example\Example\bin\Debug\net8.0-windows\Example.exe
+C:\praktikum_visual\C1\Example\Example\bin\Debug\net8.0-windows\Example.deps.json
+C:\praktikum_visual\C1\Example\Example\bin\Debug\net8.0-windows\Example.runtimeconfig.json
+C:\praktikum_visual\C1\Example\Example\bin\Debug\net8.0-windows\Example.dll
+C:\praktikum_visual\C1\Example\Example\bin\Debug\net8.0-windows\Example.pdb
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\Example.Form1.resources
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\Example.vbproj.GenerateResource.cache
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\Example.AssemblyInfoInputs.cache
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\Example.AssemblyInfo.vb
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\Example.vbproj.CoreCompileInputs.cache
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\Example.dll
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\refint\Example.dll
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\Example.pdb
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\Example.genruntimeconfig.cache
+C:\praktikum_visual\C1\Example\Example\obj\Debug\net8.0-windows\ref\Example.dll

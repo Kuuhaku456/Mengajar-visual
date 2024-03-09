@@ -1,0 +1,17 @@
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.form_crud.resources
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.form_lihat.resources
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.vbproj.GenerateResource.cache
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.AssemblyInfoInputs.cache
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.AssemblyInfo.vb
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.vbproj.CoreCompileInputs.cache
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\bin\Debug\net8.0-windows\Posttest_2.exe
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\bin\Debug\net8.0-windows\Posttest_2.deps.json
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\bin\Debug\net8.0-windows\Posttest_2.runtimeconfig.json
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\bin\Debug\net8.0-windows\Posttest_2.dll
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\bin\Debug\net8.0-windows\Posttest_2.pdb
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.dll
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\refint\Posttest_2.dll
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.pdb
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\Posttest_2.genruntimeconfig.cache
+C:\praktikum_visual\C1\Contoh_pengerjaan_posttest\Posttest_2\Posttest_2\obj\Debug\net8.0-windows\ref\Posttest_2.dll

@@ -1,0 +1,16 @@
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\bin\Debug\net8.0-windows\pertemuan_2.exe
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\bin\Debug\net8.0-windows\pertemuan_2.deps.json
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\bin\Debug\net8.0-windows\pertemuan_2.runtimeconfig.json
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\bin\Debug\net8.0-windows\pertemuan_2.dll
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\bin\Debug\net8.0-windows\pertemuan_2.pdb
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\pertemuan_2.Form1.resources
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\pertemuan_2.vbproj.GenerateResource.cache
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\pertemuan_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\pertemuan_2.AssemblyInfoInputs.cache
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\pertemuan_2.AssemblyInfo.vb
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\pertemuan_2.vbproj.CoreCompileInputs.cache
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\pertemuan_2.dll
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\refint\pertemuan_2.dll
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\pertemuan_2.pdb
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\pertemuan_2.genruntimeconfig.cache
+C:\praktikum_visual\C1\pertemuan_2\pertemuan_2\obj\Debug\net8.0-windows\ref\pertemuan_2.dll
