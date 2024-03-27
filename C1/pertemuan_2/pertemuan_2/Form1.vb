@@ -1,11 +1,6 @@
 ﻿Public Class Form1
-    Dim Index As Integer
-    Dim bebas(3, 100) As String
-    Private Sub cls()
-        txt_nim.Clear()
-        TextBox2.Clear()
-        TextBox3.Clear()
-    End Sub
+
+
 
     Private Function cekDataKosong()
         If txt_nim.Text = "" Then
@@ -126,4 +121,6 @@
             Exit Sub
         End If
     End Sub
+
+
 End Class

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\praktikum_visual\\C1\\pertemuan_2\\pertemuan_2\\pertemuan_2.vbproj": {}
+    "C:\\praktikum_visual\\Mengajar-visual\\C1\\pertemuan_2\\pertemuan_2\\pertemuan_2.vbproj": {}
   },
   "projects": {
-    "C:\\praktikum_visual\\C1\\pertemuan_2\\pertemuan_2\\pertemuan_2.vbproj": {
+    "C:\\praktikum_visual\\Mengajar-visual\\C1\\pertemuan_2\\pertemuan_2\\pertemuan_2.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\praktikum_visual\\C1\\pertemuan_2\\pertemuan_2\\pertemuan_2.vbproj",
+        "projectUniqueName": "C:\\praktikum_visual\\Mengajar-visual\\C1\\pertemuan_2\\pertemuan_2\\pertemuan_2.vbproj",
         "projectName": "pertemuan_2",
-        "projectPath": "C:\\praktikum_visual\\C1\\pertemuan_2\\pertemuan_2\\pertemuan_2.vbproj",
+        "projectPath": "C:\\praktikum_visual\\Mengajar-visual\\C1\\pertemuan_2\\pertemuan_2\\pertemuan_2.vbproj",
         "packagesPath": "C:\\Users\\Acer\\.nuget\\packages\\",
-        "outputPath": "C:\\praktikum_visual\\C1\\pertemuan_2\\pertemuan_2\\obj\\",
+        "outputPath": "C:\\praktikum_visual\\Mengajar-visual\\C1\\pertemuan_2\\pertemuan_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Acer\\AppData\\Roaming\\NuGet\\NuGet.Config",
